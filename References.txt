@@ -1,0 +1,5 @@
+I used the following resources for help:
+
+scikit-learn documentation
+Stackflow
+Udacity forums
